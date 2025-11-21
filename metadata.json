@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CourseConnect AI",
+  "description": "A smart, responsive online course reservation system featuring role-based dashboards for Students, Instructors, and Admins. Includes AI-powered syllabus generation and course advisory chat using Gemini.",
+  "requestFramePermissions": []
+}
